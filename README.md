@@ -1,4 +1,4 @@
-## Bem-vindo(a)/Welcome/Bien Venido ao perfil De ipierette 😎 
+## Bem-vindo(a)/Welcome/Bien Venido ao perfil De Izadora Cury Pierette 😎 
 
  <div>
    <a href="https://github.com/ipierette">
