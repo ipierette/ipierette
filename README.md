@@ -3,15 +3,11 @@
 <br>
 
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia;Sempre+buscando+Conhecimento&font=Roboto&size=30&duration=3000&pause=500&color=9932CC&center=true&width=500&height=70&gradient=FF1493,9932CC,4169E1" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia;Sempre+buscando+Conhecimento&font=Roboto&size=30&duration=3000&pause=500&color=ff6ac1&center=true&width=500&height=70&gradient=FF1493,9932CC,4169E1" alt="Typing SVG" />
   <br>
-
-  <div style="background-color: #21262d; padding: 20px; border-radius: 10px; display: inline-block;">
-    <img src="https://catbytes.netlify.app/images/logo300x100-fundo-escuro.svg" alt="CatBytes Logo" width="300" height="100" style="background-color: #21262d; border-radius: 5px;"/>
+  <div style="background-color: #21262d; padding: 20px; border-radius: 10px; display: inline-block; border: 1px solid #30363d;">
+    <img src="https://catbytes.netlify.app/images/logo300x100-fundo-escuro.svg" alt="CatBytes Logo" width="300" height="100" border-radius: 5px;"/>
   </div>
-
 </div>
 
 <p align="center">
@@ -23,19 +19,20 @@
 
 ## <img src="https://img.icons8.com/dusk/64/rocket.png" width="25" height="25"/> Sobre Mim
 
-- <img src="https://img.icons8.com/fluency/48/telescope.png" width="20" height="20"/> Atualmente trabalhando em **Catbutler**
-- <img src="https://img.icons8.com/fluency/48/brain.png" width="20" height="20"/> Estudando **React, Angular, Node.js, MongoDB, PostgreSQL**
-- <img src="https://img.icons8.com/fluency/48/handshake.png" width="20" height="20"/> Procurando colaborar em **projetos open source**
-- <img src="https://img.icons8.com/fluency/48/chat.png" width="20" height="20"/> Pergunte-me sobre **JavaScript, React, Node.js**
-- <img src="https://img.icons8.com/fluency/48/email-open.png" width="20" height="20"/> Como me encontrar: **ipierette2@gmail.com**
-- <img src="https://img.icons8.com/fluency/48/lightning-bolt.png" width="20" height="20"/> Curiosidade: **Amo gatos, livros de mistério e aventura e estou sempre tentando criar interfaces incríveis e únicas!**
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/telescope.png" width="20" height="20"/> Atualmente trabalhando em **Catbutler** <br>
+  <img src="https://img.icons8.com/fluency/48/brain.png" width="20" height="20"/> Estudando **React, Angular, Node.js, MongoDB, PostgreSQL** <br>
+  <img src="https://img.icons8.com/fluency/48/handshake.png" width="20" height="20"/> Procurando colaborar em **projetos open source** <br>
+  <img src="https://img.icons8.com/fluency/48/chat.png" width="20" height="20"/> Pergunte-me sobre **JavaScript, React, Node.js** <br>
+  <img src="https://img.icons8.com/fluency/48/email-open.png" width="20" height="20"/> Como me encontrar: **ipierette2@gmail.com** <br>
+  <img src="https://img.icons8.com/fluency/48/lightning-bolt.png" width="20" height="20"/> Curiosidade: **Amo gatos, livros de mistério e aventura e estou sempre tentando criar interfaces incríveis e únicas!**
+</p>
 
 ---
 
 ## <img src="https://img.icons8.com/fluency/48/settings.png" width="25" height="25"/> Tecnologias & Ferramentas que conheço ou ainda irei aprender.
 
 <div align="center">
-
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,7 +67,6 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E44AD?style=for-the-badge&logo=google&logoColor=white)
 ![Manus](https://img.shields.io/badge/Manus-000000?style=for-the-badge&logo=robot&logoColor=white)
-
 </div>
 
 ---
@@ -82,27 +78,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipierette&layout=compact&langs_count=7&theme=dark&bg_color=21262d&title_color=ff6ac1&text_color=ffffff&border_color=30363d"/>
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Projetos em Destaque
-
-<div style="display: flex; justify-content: center; align-items: stretch; gap: 20px; margin: 0 auto;">
-  <div style="flex: 1; max-width: 400px; min-width: 300px; padding: 15px; background-color: #21262d; border-radius: 10px; border: 1px solid #30363d;">
-    <a href="https://github.com/ipierette/catbutler" style="display: block; text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipierette&repo=catbutler-frontend&theme=dark&bg_color=21262d&title_color=ff6ac1&text_color=ffffff&icon_color=58a6ff&border_color=30363d" alt="CatButler" style="display: block; width: 100%; height: auto; border-radius: 6px;">
-    </a>
-  </div>
-  <div style="flex: 1; max-width: 400px; min-width: 300px; padding: 15px; background-color: #21262d; border-radius: 10px; border: 1px solid #30363d;">
-    <a href="https://github.com/ipierette/catbytes-portifolio" style="display: block; text-decoration: none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ipierette&repo=catbytes-portifolio&theme=dark&bg_color=21262d&title_color=ff6ac1&text_color=ffffff&icon_color=58a6ff&border_color=30363d" alt="CatBytes Portfolio" style="display: block; width: 100%; height: auto; border-radius: 6px;">
-    </a>
-  </div>
-</div>
-
 ---
 
-## <img src="https://img.icons8.com/fluency/48/line-chart.png" width="25" height="25"/> Atividade de Código
+## <img src="https://img.icons8.com/fluency/48/line-chart.png" width="30" height="30"/> Atividade de Código
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?snek=Pac-Man" alt="Pac-Man animation" width="700"/>
+<div align="center" style="background-color: #ffffff; padding: 10px; border-radius: 10px; border: 1px solid #30363d;">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?snek=Pac-Man&palette=github-light" alt="Pac-Man animation" width="700"/>
 </div>
 
 ---
@@ -110,15 +91,13 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Conecte-se Comigo
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadora-cury-pierette-7a7754253/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipierette)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://catbytes.netlify.app)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ipierette)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5567984098786?text=Olá!%20Vi%20o%20CatButler%20e%20gostaria%20de%20conversar%20sobre%20desenvolvimento.)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ipierette2@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JY_hUoeiW-IVyCuJ9yg9CS63QZ3GZzDq/view)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izadora-cury-pierette-7a7754253/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ipierette)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://catbytes.netlify.app)
+  [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ipierette)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5567984098786?text=Olá!%20Vi%20o%20CatButler%20e%20gostaria%20de%20conversar%20sobre%20desenvolvimento.)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ipierette2@gmail.com)
+  [![Currículo](https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JY_hUoeiW-IVyCuJ9yg9CS63QZ3GZzDq/view)
 </div>
 
 ---
@@ -131,5 +110,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=100&widith=300&section=footer"/>
 </div>
