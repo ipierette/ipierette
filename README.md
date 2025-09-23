@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora+Full+Stack;Apaixonada+por+Tecnologia;Sempre+buscando+Conhecimento&font=Roboto&size=30&duration=3000&pause=500&color=ff6ac1&center=true&width=500&height=70&gradient=FF1493,9932CC,4169E1" alt="Typing SVG" />
   <br><br>
-  <a href="[https://ibb.co/0RByTB7V](https://catbytes.netlify.app/images/logo300x100-fundo-escuro.svg)"><img src="https://i.ibb.co/Nd1251vn/logo300x100.png" alt="logo" border="0" /></a>
+  <a href="https://catbytes.netlify.app/images/logo300x100-fundo-escuro.svg"><img src="https://catbytes.netlify.app/images/logo300x100-fundo-escuro.svg" alt="logo" border="0" /></a>
 </div>
 
 <p align="center">
